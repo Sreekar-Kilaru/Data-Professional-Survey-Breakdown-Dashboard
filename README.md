@@ -9,6 +9,7 @@ Here are some of the important questions which were answered through this report
 •	The ‘COUNT’ and ‘AVERAGE AGE’ of the survey takers.  
 
 
+Here is the the Complete view of the report which consists of different charts and visuals. 
 
-
+https://github.com/Sreekar-Kilaru/Data-Professional-Survey-Breakdown-Dashboard/assets/153851577/4eb4cb72-7157-46ff-b955-a88b03a1c627
 
