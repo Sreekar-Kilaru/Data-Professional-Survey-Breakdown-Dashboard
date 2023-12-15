@@ -11,5 +11,5 @@ Here are some of the important questions which were answered through this report
 
 Here is the preview of the Complete report which consists of different charts and visuals. 
 
-https://github.com/Sreekar-Kilaru/Data-Professional-Survey-Breakdown-Dashboard/assets/153851577/4eb4cb72-7157-46ff-b955-a88b03a1c627
+https://github.com/Sreekar-Kilaru/Data-Professional-Survey-Breakdown-Dashboard/assets/153851577/4eb4cb72-7157-46ff-b955-a88b03a1c627 
 
